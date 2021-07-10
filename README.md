@@ -3,7 +3,7 @@
 </a>
 
 ## 你好。Hello. こんにちわ。Hallo. Hola.
-A human living on this planet. Living permanatly in the US.
+A human living on this planet, studying in high school as a freshman. Living permanatly in the US.
 
 Develop mainly with Java and PHP.
 
