@@ -5,12 +5,12 @@
 ## 你好。Hello. こんにちわ。Hallo. Hola.
 A human living on this planet, studying in high school as a freshman. Living permanatly in the US.
 
-Develop mainly with Java and PHP.
+Develop mainly with Java and PHP. Learning Koltin and flutter with passion.
 
 # Contact
 Feel free to contact me anytime. <br>
 Telegram: @Leisenshino <br>
 
 <!--
-LLLgoyour, 21/6
+LLLgoyour, 2021/7
 -->
