@@ -7,10 +7,14 @@ A human living on this planet, studying in high school as a freshman. Living per
 
 Develop mainly with Java and PHP. Learning Koltin and flutter with passion.
 
+## Organization
+Work with friends in Team Nurl proudly. Drived by passion.
+
 # Contact
 Feel free to contact me anytime. <br>
 Telegram: @Leisenshino <br>
 
 <!--
-LLLgoyour, 2021/7
+LLLgoyour, 2021/8
+感谢阅读
 -->
