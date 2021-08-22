@@ -1,7 +1,5 @@
 <img align="middle" src="https://count.getloli.com/get/@LLLgoyour?theme=moebooru-h" />
-<a href="#">
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=LLLgoyour&show_icons=true&theme=radical">
-</a>
+<a href="https://github.com/LLLgoyour"><img align="right" src="https://github-readme-stats.vercel.app/api?username=LLLgoyour&show_icons=true&theme=radical"></a>
 
 ## 你好。Hello. こんにちわ。Hallo. Hola.
 A human living on this planet, studying in high school as a freshman. Living permanatly in the US.
@@ -19,7 +17,7 @@ A human living on this planet, studying in high school as a freshman. Living per
 [![](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=black)](https://kotlinlang.org/)
 [![](https://img.shields.io/badge/-Go-04ABD7?style=flat-square&logo=go&logoColor=black)](https://golang.org/)
 [![](https://img.shields.io/badge/-Dart-04589C?style=flat-square&logo=dart&logoColor=white)](https://dart.dev/)
-
+<a href="https://github.com/LLLgoyour"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LLLgoyour&show_icons=true&theme=radical"/></a>
 # Contact
 Feel free to contact me anytime. <br>
 Telegram: @Leisenshino <br>
