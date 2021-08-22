@@ -1,3 +1,4 @@
+<img align="middle" src="https://count.getloli.com/get/@LLLgoyour?theme=moebooru-h" />
 <a href="#">
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=LLLgoyour&show_icons=true&theme=radical">
 </a>
