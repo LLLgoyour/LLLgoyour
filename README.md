@@ -12,7 +12,7 @@ A human living on this planet, studying in high school as a freshman. Living per
 [![](https://img.shields.io/badge/iPad-3rdPro%202020-191981?style=flat-square&logo=apple&logoColor=233333)](https://www.apple.com/)
 [![](https://img.shields.io/badge/macOS-Macintosh-223333?style=flat-square&logo=apple&logoColor=223333)](https://apple.com/)
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=233333)](https://code.visualstudio.com/)
-[![](https://img.shields.io/badge/IDE-IDEA-black?style=flat-square&logo=IntelliJ%20IDEA&logoColor=549DF0)](https://www.jetbrains.com/idea/)
+[![](https://img.shields.io/badge/IDE-IntelliJ%20IDEA-black?style=flat-square&logo=IntelliJ%20IDEA&logoColor=549DF0)](https://www.jetbrains.com/idea/)
 [![](https://img.shields.io/badge/IDE-Android%20Studio-3CDC84?style=flat-square&logo=Android%20Studio&logoColor=4284F3)](https://developer.android.com/studio)
 [![](https://img.shields.io/badge/Nova-C33BFE?style=flat-square&logo=Nova&logoColor=246DFF)](https://nova.app/)
 
