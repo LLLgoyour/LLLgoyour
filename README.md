@@ -11,6 +11,7 @@ A human living on this planet, studying in high school as a freshman. Living per
 [![](https://img.shields.io/badge/IDE-Android%20Studio-3CDC84?style=flat-square&logo=Android%20Studio&logoColor=4284F3)](https://developer.android.com/studio)
 [![](https://img.shields.io/badge/Nova-C33BFE?style=flat-square&logo=Nova&logoColor=246DFF)](https://nova.app/)
 
+[![](https://img.shields.io/badge/-Pascal-3065A6?style=flat-square)](https://www.freepascal.org/)
 [![](https://img.shields.io/badge/-Java-red?style=flat-square&logo=java&logoColor=black)](https://www.oracle.com/java/)
 [![](https://img.shields.io/badge/-PHP-informational?style=flat-square&logo=php&logoColor=white)](https://www.php.net/)
 [![](https://img.shields.io/badge/-JavaScript-114514?style=flat-square&logo=javascript&logoColor=white)](https://www.ecma-international.org/)
