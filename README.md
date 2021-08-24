@@ -26,6 +26,7 @@ A human living on this planet, studying in high school as a freshman. Living per
 <a href="https://github.com/LLLgoyour"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LLLgoyour&show_icons=true&theme=radical"/></a>
 # Contact
 Feel free to contact me anytime. <br>
+
 Telegram: @Leisenshino <br>
 
 <!--
