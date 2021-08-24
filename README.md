@@ -2,7 +2,7 @@
 <a href="https://github.com/LLLgoyour"><img align="right" src="https://github-readme-stats.vercel.app/api?username=LLLgoyour&show_icons=true&theme=radical"></a>
 
 ## 你好。Hello. こんにちわ。Hallo. Hola.
-A human living on this planet, studying in high school as a freshman. Living permanatly in the US.
+A human living on this planet, studying in high school as a freshman. Living in the US.
 
 
 [![](https://img.shields.io/badge/iPhone-5S-111111?style=flat-square&logo=apple&logoColor=233333)](https://www.apple.com/)
