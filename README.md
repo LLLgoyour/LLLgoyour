@@ -4,6 +4,9 @@
 ## 你好。Hello. こんにちわ。Hallo. Hola.
 A human living on this planet, studying in high school as a freshman. Living in the US.
 
+# My GPG fingerprint
+4DAD 3508 13AC B8C8 27BB  9443 EAF6 408A 35C4 58E2
+
 
 [![](https://img.shields.io/badge/iPhone-5S-111111?style=flat-square&logo=apple&logoColor=233333)](https://www.apple.com/)
 [![](https://img.shields.io/badge/iPhone-6SPlus-111111?style=flat-square&logo=apple&logoColor=233333)](https://www.apple.com/)
