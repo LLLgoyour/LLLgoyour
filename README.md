@@ -2,7 +2,7 @@
 <a href="https://github.com/LLLgoyour"><img align="right" src="https://github-readme-stats.vercel.app/api?username=LLLgoyour&show_icons=true&theme=radical"></a>
 
 ## 你好。Hello. こんにちわ。Hallo. Hola.
-A human living on this planet, studying in high school as a freshman. Living in the US.
+A human living on this planet, a freshman in the US.
 
 ## My GPG fingerprint
 4DAD 3508 13AC B8C8 27BB  9443 EAF6 408A 35C4 58E2
@@ -30,6 +30,6 @@ Feel free to contact me anytime. <br>
 Telegram: @Leisenshino <br>
 
 <!--
-LLLgoyour, 2021/8
+LLLgoyour, 2021/9
 感谢阅读
 -->
