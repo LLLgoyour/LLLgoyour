@@ -3,8 +3,9 @@
 
 ## 你好。Hello. こんにちわ。Hallo. Hola.
 A human living on this planet. Using EST timezone.
+使用EST时区活动。
 
-## My GPG fingerprint
+## My GPG fingerprint 我的GPG指纹 
 4DAD 3508 13AC B8C8 27BB  9443 EAF6 408A 35C4 58E2
 
 [![](https://img.shields.io/badge/iPhone-XS-111111?style=flat-square&logo=apple&logoColor=233333)](https://www.apple.com/)
@@ -26,6 +27,7 @@ A human living on this planet. Using EST timezone.
 <a href="https://github.com/LLLgoyour"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LLLgoyour&show_icons=true&theme=radical"/></a>
 # Contact
 Feel free to contact me anytime. <br>
+随时联系。
 
 Telegram: @TExMZ295b3Vy <br>
 
