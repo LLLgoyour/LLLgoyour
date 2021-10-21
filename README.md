@@ -2,7 +2,7 @@
 <a href="https://github.com/LLLgoyour"><img align="right" src="https://github-readme-stats.vercel.app/api?username=LLLgoyour&show_icons=true&theme=radical"></a>
 
 ## 你好。Hello. こんにちわ。Hallo. Hola.
-A human living on this planet. Using EST timezone.
+A human living on this planet. Using EST timezone. <br>
 使用EST时区活动。
 
 ## My GPG fingerprint 我的GPG指纹 
@@ -27,7 +27,7 @@ A human living on this planet. Using EST timezone.
 <a href="https://github.com/LLLgoyour"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LLLgoyour&show_icons=true&theme=radical"/></a>
 # Contact
 Feel free to contact me anytime. <br>
-随时联系。
+随时联系。<br>
 
 Telegram: @TExMZ295b3Vy <br>
 
