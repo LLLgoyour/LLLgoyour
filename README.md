@@ -24,6 +24,7 @@ A human living on this planet. Using EST timezone. <br>
 [![](https://img.shields.io/badge/-PHP-informational?style=flat-square&logo=php&logoColor=white)](https://www.php.net/)
 [![](https://img.shields.io/badge/-JavaScript-114514?style=flat-square&logo=javascript&logoColor=white)](https://www.ecma-international.org/)
 [![](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=black)](https://kotlinlang.org/)
+[![](https://img.shields.io/badge/-Vue.js-4fc08d?style=flat-square&logo=vue.js&logoColor=ffffff)](https://vuejs.org/)
 [![](https://img.shields.io/badge/-Go-04ABD7?style=flat-square&logo=go&logoColor=black)](https://golang.org/)
 [![](https://img.shields.io/badge/-Dart-04589C?style=flat-square&logo=dart&logoColor=white)](https://dart.dev/)
 <a href="https://github.com/LLLgoyour"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LLLgoyour&show_icons=true&theme=radical"/></a>
