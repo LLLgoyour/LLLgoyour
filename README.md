@@ -8,6 +8,8 @@ A human living on this planet. Using EST timezone. <br>
 ## My GPG fingerprint 我的GPG指纹 
 4DAD 3508 13AC B8C8 27BB  9443 EAF6 408A 35C4 58E2
 
+[![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
+
 [![](https://img.shields.io/badge/iPhone-XS-111111?style=flat-square&logo=apple&logoColor=233333)](https://www.apple.com/)
 [![](https://img.shields.io/badge/iPad-3rdPro%202020-191981?style=flat-square&logo=apple&logoColor=233333)](https://www.apple.com/)
 [![](https://img.shields.io/badge/macOS-Macintosh-223333?style=flat-square&logo=apple&logoColor=223333)](https://apple.com/)
