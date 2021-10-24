@@ -1,11 +1,14 @@
 <img align="middle" src="https://count.getloli.com/get/@LLLgoyour?theme=moebooru-h" />
 <a href="https://github.com/LLLgoyour"><img align="right" src="https://github-readme-stats.vercel.app/api?username=LLLgoyour&show_icons=true&theme=radical"></a>
 
-## 你好。Hello. こんにちわ。Hallo. Hola.
+# 你好。Hello. こんにちわ。Hallo. Hola.
+## About myself. 关于我。
 A human living on this planet. Using EST timezone. <br>
-使用EST时区活动。
+使用EST时区活动。<br> <br>
+LLLgoyour is an INTP-A human. <br>
+LLLgoyour是一个INTP-A人。
 
-## My GPG fingerprint 我的GPG指纹 
+## My GPG fingerprint. 我的GPG指纹。
 4DAD 3508 13AC B8C8 27BB  9443 EAF6 408A 35C4 58E2
 
 [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
