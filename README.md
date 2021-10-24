@@ -5,8 +5,6 @@
 ## About myself. 关于我。
 A human living on this planet. Using EST timezone. <br>
 使用EST时区活动。<br> <br>
-Shinonome (LLLgoyour) is an INTP-A human. <br>
-Shinonome（LLLgoyour）是一个INTP-A人。
 
 ## My GPG fingerprint. 我的GPG指纹。
 4DAD 3508 13AC B8C8 27BB  9443 EAF6 408A 35C4 58E2
