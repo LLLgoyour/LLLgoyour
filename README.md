@@ -28,7 +28,9 @@ A human living on this planet. Using EST timezone. <br>
 [![](https://img.shields.io/badge/-Vue.js-4fc08d?style=flat-square&logo=vue.js&logoColor=ffffff)](https://vuejs.org/)
 [![](https://img.shields.io/badge/-Go-04ABD7?style=flat-square&logo=go&logoColor=black)](https://golang.org/)
 [![](https://img.shields.io/badge/-Dart-04589C?style=flat-square&logo=dart&logoColor=white)](https://dart.dev/)
-<a href="https://github.com/LLLgoyour"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LLLgoyour&show_icons=true&theme=radical"/></a>
+<img
+  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=LLLgoyour&width=1000&height=100"
+/>
 # Contact
 Feel free to contact me anytime. <br>
 随时联系。<br>
