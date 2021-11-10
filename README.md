@@ -3,7 +3,7 @@
 
 # 你好。Hello. こんにちわ。Hallo. Hola.
 ## About myself. 关于我。
-A human living on this planet. Using EST timezone. <br>
+I go by LLLgoyour or Shinonome. Use EST timezone. <br>
 使用EST时区活动。<br> <br>
 
 ## My GPG fingerprint. 我的GPG指纹。
