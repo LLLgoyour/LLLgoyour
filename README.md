@@ -29,7 +29,7 @@ I go by LLLgoyour or Shinonome. Use EST timezone. <br>
 [![](https://img.shields.io/badge/-Go-04ABD7?style=flat-square&logo=go&logoColor=black)](https://golang.org/)
 [![](https://img.shields.io/badge/-Dart-04589C?style=flat-square&logo=dart&logoColor=white)](https://dart.dev/)
 <img
-  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=LLLgoyour&width=1000&height=100&skills=Typescript,Javascript,Java,Dart,Vue,PHP,CSS,HTML,SCSS,Swift,C,Shell,JSON"
+  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=LLLgoyour"
 />
 # Contact
 Feel free to contact me anytime. <br>
