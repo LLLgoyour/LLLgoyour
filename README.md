@@ -35,10 +35,10 @@ I go by LLLgoyour or Shinonome. Use EST timezone. <br>
 Feel free to contact me anytime. <br>
 随时联系。<br>
 
-Telegram: @TExMZ295b3Vy <br>
+Telegram: @OverTExMZ295b3Vyride <br>
 
 Telegram Channel: @Lshelter
 <!--
-LLLgoyour, 2021/10
+LLLgoyour, 2021/12
 感谢阅读
 -->
