@@ -5,6 +5,7 @@
 ## About myself. 关于我。
 I go by LLLgoyour or Shinonome. Use EST timezone. <br>
 使用EST时区活动。<br> <br>
+（夏季时也许会转到上海🐦）<br> <br>
 
 ## My GPG fingerprint. 我的GPG指纹。
 4DAD 3508 13AC B8C8 27BB  9443 EAF6 408A 35C4 58E2
