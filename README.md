@@ -4,6 +4,7 @@
 # 你好。Hello. こんにちわ。Hallo. Hola.
 ## About myself. 关于我。
 I go by LLLgoyour or Shinonome. <br>
+可以称呼我LLLgoyour或是Shinonome。 <br>
 
 ## My GPG fingerprint. 我的GPG指纹。
 4DAD 3508 13AC B8C8 27BB  9443 EAF6 408A 35C4 58E2
