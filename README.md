@@ -39,6 +39,11 @@ Feel free to contact me anytime. <br>
 Telegram: @OverTExMZ295b3Vyride <br>
 
 Telegram Channel: @Lshelter
+<br>
+<br>
+<br>
+*永不卑贱，永不虚伪，永不残忍。*
+——狄更斯《大卫·科波菲尔》
 <!--
 LLLgoyour, 2021/12
 感谢阅读
