@@ -12,9 +12,15 @@ I go by LLLgoyour or Shinonome. <br>
 
 [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
 
-[![](https://img.shields.io/badge/iPhone-XS-111111?style=flat-square&logo=apple&logoColor=233333)](https://www.apple.com/)
-[![](https://img.shields.io/badge/iPad-3rdPro%202020-191981?style=flat-square&logo=apple&logoColor=233333)](https://www.apple.com/)
-[![](https://img.shields.io/badge/macOS-Macintosh-223333?style=flat-square&logo=apple&logoColor=223333)](https://apple.com/)
+[![iPhone](https://img.shields.io/badge/iPhone-XS-111111?style=flat-square&logo=apple&logoColor=233333)](https://www.apple.com/)
+[![iPad](https://img.shields.io/badge/iPad-3rdPro%202020-191981?style=flat-square&logo=apple&logoColor=233333)](https://www.apple.com/)
+[![Macbook](https://img.shields.io/badge/Macbook-M1-111111?style=flat-square&logo=apple&logoColor=233333)](https://www.apple.com/)
+
+[![macOS](https://img.shields.io/badge/macOS-Macintosh-223333?style=flat-square&logo=apple&logoColor=233333)](https://apple.com/)
+[![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793d0?style=flat-square&logo=arch-linux&logoColor=233333)](https://archlinux.org)
+[![Windows 7](https://img.shields.io/badge/Windows%207-FFBA14?style=flat-square&logo=windows&logoColor=114514)](https://www.microsoft.com/en-us/windows/windows-7-end-of-life-support-information)
+[![Windows 10](https://img.shields.io/badge/Windows%2010-81BB0D?style=flat-square&logo=windows&logoColor=114514)](https://www.microsoft.com/p/windows-10-home/d76qx4bznwk4)
+[![Windows 11](https://img.shields.io/badge/Windows%2011-0BA5F0?style=flat-square&logo=windows&logoColor=114514)](https://www.microsoft.com/en-us/windows/windows-11)
 
 [![](https://img.shields.io/badge/Editor-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=233333)](https://code.visualstudio.com/)
 [![](https://img.shields.io/badge/IDE-IntelliJ%20IDEA-black?style=flat-square&logo=IntelliJ%20IDEA&logoColor=549DF0)](https://www.jetbrains.com/idea/)
@@ -29,6 +35,7 @@ I go by LLLgoyour or Shinonome. <br>
 [![](https://img.shields.io/badge/-Vue.js-4fc08d?style=flat-square&logo=vue.js&logoColor=ffffff)](https://vuejs.org/)
 [![](https://img.shields.io/badge/-Go-04ABD7?style=flat-square&logo=go&logoColor=black)](https://golang.org/)
 [![](https://img.shields.io/badge/-Dart-04589C?style=flat-square&logo=dart&logoColor=white)](https://dart.dev/)
+[![](https://img.shields.io/badge/-Latex-008080?style=flat-square&logo=latex&logoColor=white)](https://www.latex-project.org/)
 <img
   src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=LLLgoyour"
 />
@@ -45,7 +52,9 @@ Telegram Channel: @Lshelter
 *永不卑贱，永不虚伪，永不残忍。*
 <br>
 ——狄更斯《大卫·科波菲尔》
+
+
+
 <!--
 LLLgoyour, 2021/12
-感谢阅读
 -->
