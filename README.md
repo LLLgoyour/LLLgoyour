@@ -17,6 +17,8 @@ I go by LLLgoyour or Shinonome. <br>
 [![Macbook](https://img.shields.io/badge/Macbook-M1-111111?style=flat-square&logo=apple&logoColor=233333)](https://www.apple.com/)
 
 [![macOS](https://img.shields.io/badge/macOS-Macintosh-233333?style=flat-square&logo=apple&logoColor=ffffff)](https://apple.com/)
+[![iOS](https://img.shields.io/badge/iOS-233333?style=flat-square&logo=apple&logoColor=ffffff)](https://apple.com/)
+[![iPadOS](https://img.shields.io/badge/iPadOS-233333?style=flat-square&logo=apple&logoColor=ffffff)](https://apple.com/)
 [![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793d0?style=flat-square&logo=arch-linux&logoColor=233333)](https://archlinux.org)
 [![Windows 7](https://img.shields.io/badge/Windows%207-FFBA14?style=flat-square&logo=windows&logoColor=114514)](https://www.microsoft.com/en-us/windows/windows-7-end-of-life-support-information)
 [![Windows 10](https://img.shields.io/badge/Windows%2010-81BB0D?style=flat-square&logo=windows&logoColor=114514)](https://www.microsoft.com/p/windows-10-home/d76qx4bznwk4)
