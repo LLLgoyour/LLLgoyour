@@ -16,13 +16,13 @@ I go by LLLgoyour or Shinonome. <br>
 [![iPad](https://img.shields.io/badge/iPad-3rdPro%202020-191981?style=flat-square&logo=apple&logoColor=233333)](https://www.apple.com/)
 [![Macbook](https://img.shields.io/badge/Macbook-M1-111111?style=flat-square&logo=apple&logoColor=233333)](https://www.apple.com/)
 
-[![macOS](https://img.shields.io/badge/macOS-Macintosh-223333?style=flat-square&logo=apple&logoColor=233333)](https://apple.com/)
+[![macOS](https://img.shields.io/badge/macOS-Macintosh-233333?style=flat-square&logo=apple&logoColor=ffffff)](https://apple.com/)
 [![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793d0?style=flat-square&logo=arch-linux&logoColor=233333)](https://archlinux.org)
 [![Windows 7](https://img.shields.io/badge/Windows%207-FFBA14?style=flat-square&logo=windows&logoColor=114514)](https://www.microsoft.com/en-us/windows/windows-7-end-of-life-support-information)
 [![Windows 10](https://img.shields.io/badge/Windows%2010-81BB0D?style=flat-square&logo=windows&logoColor=114514)](https://www.microsoft.com/p/windows-10-home/d76qx4bznwk4)
 [![Windows 11](https://img.shields.io/badge/Windows%2011-0BA5F0?style=flat-square&logo=windows&logoColor=114514)](https://www.microsoft.com/en-us/windows/windows-11)
 
-[![](https://img.shields.io/badge/Editor-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=233333)](https://code.visualstudio.com/)
+[![](https://img.shields.io/badge/Editor-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=35A3F2)](https://code.visualstudio.com/)
 [![](https://img.shields.io/badge/IDE-IntelliJ%20IDEA-black?style=flat-square&logo=IntelliJ%20IDEA&logoColor=549DF0)](https://www.jetbrains.com/idea/)
 [![](https://img.shields.io/badge/IDE-Android%20Studio-3CDC84?style=flat-square&logo=Android%20Studio&logoColor=4284F3)](https://developer.android.com/studio)
 [![](https://img.shields.io/badge/Nova-C33BFE?style=flat-square&logo=Nova&logoColor=246DFF)](https://nova.app/)
