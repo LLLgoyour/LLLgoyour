@@ -8,7 +8,7 @@ I go by LLLgoyour or Shinonome. <br>
 可以称呼我LLLgoyour或是Shinonome。 <br>
 
 ## My GPG fingerprint. 我的GPG指纹。
-4DAD 3508 13AC B8C8 27BB  9443 EAF6 408A 35C4 58E2
+53FC 1B93 F47D 3389 B55B  4D86 B113 DAC8 E6E5 33B8
 
 [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
 
