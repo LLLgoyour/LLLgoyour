@@ -1,7 +1,7 @@
 <img align="middle" src="https://count.getloli.com/get/@LLLgoyour?theme=moebooru-h" />
 <a href="https://github.com/LLLgoyour"><img align="right" src="https://github-readme-stats.vercel.app/api?username=LLLgoyour&show_icons=true&theme=radical"></a>
 
-# 你好。Hello. こんにちわ。Hallo. Hola.
+# 你好。Hello. こんにちわ。
 ## About myself. 关于我。
 I go by LLLgoyour or Shinonome. <br>
 
