@@ -11,6 +11,7 @@ I go by LLLgoyour or Shinonome. <br>
 53FC 1B93 F47D 3389 B55B  4D86 B113 DAC8 E6E5 33B8
 
 [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
+[![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
 
 [![iPhone](https://img.shields.io/badge/iPhone-XS-111111?style=flat-square&logo=apple&logoColor=233333)](https://www.apple.com/)
 [![iPad](https://img.shields.io/badge/iPad-3rdPro%202020-191981?style=flat-square&logo=apple&logoColor=233333)](https://www.apple.com/)
@@ -58,5 +59,5 @@ Telegram Channel: @Lshelter
 
 
 <!--
-LLLgoyour, 2021/12
+LLLgoyour, 2022/2
 -->
