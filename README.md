@@ -13,6 +13,7 @@ I go by LLLgoyour or Shinonome. <br>
 [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
 [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
 
+[![iPhone](https://img.shields.io/badge/iPhone-13PRO-4c6f56?style=flat-square&logo=apple&logoColor=233333)](https://www.apple.com/)
 [![iPhone](https://img.shields.io/badge/iPhone-XS-111111?style=flat-square&logo=apple&logoColor=233333)](https://www.apple.com/)
 [![iPad](https://img.shields.io/badge/iPad-3rdPro%202020-191981?style=flat-square&logo=apple&logoColor=233333)](https://www.apple.com/)
 [![Macbook](https://img.shields.io/badge/Macbook-M1-111111?style=flat-square&logo=apple&logoColor=233333)](https://www.apple.com/)
@@ -47,8 +48,6 @@ Feel free to contact me anytime. <br>
 随时联系。<br>
 
 Telegram: @OverTExMZ295b3Vyride <br>
-
-Telegram Channel: @Lshelter
 <br>
 <br>
 <br>
@@ -59,5 +58,5 @@ Telegram Channel: @Lshelter
 
 
 <!--
-LLLgoyour, 2022/2
+LLLgoyour, 2022/6
 -->
