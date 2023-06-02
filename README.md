@@ -4,9 +4,7 @@
 <a href="https://github.com/LLLgoyour"><img align="right" src="https://github-readme-stats.vercel.app/api?username=LLLgoyour&show_icons=true&theme=radical"></a>
 I go by LLLgoyour or Shinonome. <br>
 可以称呼我LLLgoyour或Shinonome。 <br>
-
 <br>
-
 [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
 [![LGBT-CN Badge](https://img.shields.io/badge/Support-LGBTQIA-FF0000)](https://git.io/JfJiO)
 
@@ -21,14 +19,6 @@ I go by LLLgoyour or Shinonome. <br>
 
 [![Telegram](https://img.shields.io/badge/-telegram-red?color=white&logo=telegram&logoColor=black)](https://t.me/OverTExMZ295b3Vyride233)
 
-<br>
-<p align="center">
-永不卑贱，永不虚伪，永不残忍。
-<br>
-——狄更斯《大卫·科波菲尔》
-</p>
-
-
 <!--
-LLLgoyour, 2023/1
+LLLgoyour, 2023/6
 -->
