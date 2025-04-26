@@ -4,6 +4,8 @@
 <a href="https://github.com/LLLgoyour"><img align="right" src="https://github-readme-stats.vercel.app/api?username=LLLgoyour&show_icons=true&theme=radical"></a>
 I go by LLLgoyour or Shinonome. <br>
 可以称呼我LLLgoyour或Shinonome。 <br>
+I'm a current student pursuing a B.A. degree at Colby College studying mathematics. <br>
+我目前是Colby College数学专业一名正在获取文学士学位的学生。 <br>
 <br>
 [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
 [![LGBT-CN Badge](https://img.shields.io/badge/Support-LGBTQIA-FF0000)](https://git.io/JfJiO)
@@ -18,8 +20,8 @@ I go by LLLgoyour or Shinonome. <br>
 [![](https://img.shields.io/badge/-Latex-008080?style=flat-square&logo=latex&logoColor=white)](https://www.latex-project.org/)
 [![](https://img.shields.io/badge/-Python-4381b3?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 
-[![Telegram](https://img.shields.io/badge/-telegram-red?color=white&logo=telegram&logoColor=black)](https://t.me/OverTExMZ295b3Vyride233)
+[![Telegram](https://img.shields.io/badge/-telegram-red?color=white&logo=telegram&logoColor=black)](https://t.me/OverTExMZ295b3Vyride114514)
 
 <!--
-LLLgoyour, 2024/1
+LLLgoyour, 2025/4
 -->
