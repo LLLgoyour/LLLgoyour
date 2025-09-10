@@ -4,7 +4,7 @@
 <a href="https://github.com/LLLgoyour"><img align="right" src="https://github-readme-stats.vercel.app/api?username=LLLgoyour&show_icons=true&theme=radical"></a>
 I go by LLLgoyour or Shinonome. <br>
 <br>
-[![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
+[![Badge](https://img.shields.io/badge/link-996.icu-%23FF4D5B.svg?style=flat-square)](https://996.icu/#/en_US)
 [![LGBT-CN Badge](https://img.shields.io/badge/Support-LGBTQIA-FF0000)](https://git.io/JfJiO)
 
 [![](https://img.shields.io/badge/-Pascal-3065A6?style=flat-square)](https://www.freepascal.org/)
@@ -20,5 +20,5 @@ I go by LLLgoyour or Shinonome. <br>
 [![Telegram](https://img.shields.io/badge/-telegram-red?color=white&logo=telegram&logoColor=black)](https://t.me/OverTExMZ295b3Vyride114514)
 
 <!--
-LLLgoyour, 2025/8
+LLLgoyour, 2025/9
 -->
